@@ -21,8 +21,8 @@ Run the application
 $ docker run -it twitter-cli
 
 after first you will need to authorize the rainbowstreams application to
-access your twitter stream, publish tweets and so on; for this process
-link (e text based browser) will show a form to be used to authenticate
+access your twitter stream, publish tweets and so on; for this process,
+links (a text based browser) will show a form to be used to authenticate
 to twitter. After a succesful login a pin number will be provided, this
 number must be provided to rainbowstreams for it to work (it will ask
 for that pin so no configuration file as to be edited)
