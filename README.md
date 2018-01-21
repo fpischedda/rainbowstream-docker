@@ -25,7 +25,7 @@ access your twitter stream, publish tweets and so on; for this process,
 links (a text based browser) will show a form to be used to authenticate
 to twitter. After a succesful login a pin number will be provided, this
 number must be provided to rainbowstreams for it to work (it will ask
-for that pin so no configuration file as to be edited)
+for that pin so no configuration file has to be edited)
 
-After the login proceedure rainbowastream will be ready to work, please
-refer to its help system or its documentation to understand to operate it
+After the login procedure rainbowastream will be ready to work, please
+refer to its help system or its documentation to understand how to operate it
