@@ -3,7 +3,7 @@ rainbowstream-docker aims to provide a conteinerized [rainboxstream](https://git
 Setup
 =====
 
-Please verify to have a healty docker installation on your system
+Please verify to have a healty [docker](https://www.docker.com/) installation on your system
 and your twitter credentials at hand.
 
 Every line starting with a $ is performed in a shell, if you interact with
