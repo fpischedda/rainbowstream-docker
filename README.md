@@ -10,7 +10,7 @@ Every line starting with a $ is performed in a shell, if you interact with
 docker in a different way (like a GUI) please try to map this commands to
 your environment
 
-$ docker build -t twitter-cli
+$ docker build -t twitter-cli .
 
 This command will fetch the python:3.6-alpine image and will install all
 the needed components
